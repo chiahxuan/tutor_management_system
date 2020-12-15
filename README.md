@@ -8,4 +8,4 @@ Data Structure Assignment Project (Group)
 
 
 ** DISCLAIMER ** 
-DISCLAIMER: The uploaded project file is only for references and comparison, the project file will not be used in any profit-oriented activities without my permission. The user that downloaded the said project will be responsible for any outcomes of their future implementation on the project, and I will not held any legal responsibilities upon your action. However, any users are welcomed to suggest any changes or improvements upon the project if they want to.
+The uploaded project file is only for references and comparison, the project file will not be used in any profit-oriented activities without my permission. The user that downloaded the said project will be responsible for any outcomes of their future implementation on the project, and I will not held any legal responsibilities upon your action. However, any users are welcomed to suggest any changes or improvements upon the project if they want to.
